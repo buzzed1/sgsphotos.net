@@ -4,6 +4,7 @@
 
 <html>
 	<head>
+		<link rel="stylesheet" type="text/css" href="assets/styles.css">
 		<title></title>
 	</head>
 	
@@ -12,20 +13,20 @@
 				<h1 id="logo-head">Stephen Smith Photography</h1>
 				
 					<div id="nav-bar">
-						<ul>
-							<li>Weddings</li>
-							<li>Portraits</li>
-							<li>Architectural</li>
-							<li>About</li>
+						<ul id="un-list">
+							<li><a href="#">Weddings</a></li>
+							<li><a href="#">Portraits</a></li>
+							<li><a href="#">Architectural</a></li>
+							<li><a href="#">About</a></li>
 						</ul>
 					</div><!-- nav bar -->
 			</nav><!-- nav -->
 			<div class="content">
 				<div id="fold">
 					<img src="#">
-					<h2>Welcome to Stephen Smith Photography</h2>
-					
-					<p>We believe in capturing the moment that means the most to you.</p>
+						<h2>Welcome to Stephen Smith Photography</h2>
+						
+						<p>We believe in capturing the moment that means the most to you.</p>
 							
 				</div><!-- fold -->
 				
@@ -34,7 +35,9 @@
 				</div><!-- photo-grid -->
 				
 					<div id="inform">
-					
+						<div id="#">
+							
+						</div><!-- inform -->
 					</div><!-- inform -->
 				</div><!-- content -->
 				
